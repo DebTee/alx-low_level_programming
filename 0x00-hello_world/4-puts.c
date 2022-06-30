@@ -1,14 +1,12 @@
 #include <stdio.h>
 
-
-
 /**
 
- *  main - Entry point
+ *  main-Entry point
 
- *  Description: prints "\"Programming is like building a multilingual puzzle"
+ *  Description:prints "\"Programming is like building a multilingual puzzle"
 
- *  Return: 0
+ *  Return:0
 
  */
 
