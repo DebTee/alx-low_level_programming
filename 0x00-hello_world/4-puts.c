@@ -2,11 +2,11 @@
 
 /**
 
- *  main- the entry point
+ *  main - Entry point
 
- *  Description:prints "\"Programming is like building a multilingual puzzle"
+ *  Description: prints "\"Programming is like building a multilingual puzzle"
 
- *  Return:Always 0 on success
+ *  Return: 0
 
  */
 
@@ -18,4 +18,3 @@ int main(void)
 
 	return (0);
 
-}
