@@ -2,11 +2,11 @@
 
 /**
 
- *  main-Entry point
+ *  main- the entry point
 
  *  Description:prints "\"Programming is like building a multilingual puzzle"
 
- *  Return:0
+ *  Return:Always 0 on success
 
  */
 
