@@ -1,11 +1,10 @@
 #include <stdio.h>
-#include <stdlib.>
+#include <stdlib.h>
 #include <time.h>
 /**
  * main - main block
- * Description: prints all single digit numbers of base 10
- * starting from 0, followed by a new line.
- * Return: 0
+ * Description: a program that prints all the numbers of base 16 in lowercase
+ * Return: always 0 on success
 */
 int main(void)
 {
